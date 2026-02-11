@@ -29,3 +29,5 @@ hand_material_override = ExtResource("2_lquwl")
 enable_passthrough = true
 
 [node name="Jared" type="Node3D" parent="."]
+
+[node name="Michael" type="Node3D" parent="."]
