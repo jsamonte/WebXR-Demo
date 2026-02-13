@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://cfmarpdpp5xnb"]
+
+[node name="SubViewport" type="SubViewport" unique_id=1620485137]
+
+[node name="TextEdit" type="TextEdit" parent="." unique_id=1490311803]
+offset_left = 195.0
+offset_top = 165.0
+offset_right = 311.0
+offset_bottom = 201.0
+text = "Hello World!"
+placeholder_text = "Hello World!"
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=89522151]
+position = Vector2(577, 324)
